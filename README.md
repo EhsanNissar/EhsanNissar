@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ehsan - Full Stack Engineer | AI Systems | FinTech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ehsan-nissar) [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01ff885c5dd37eae7b) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ehsannisar3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ehsan-nissar) [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01d664b5651f40be41) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ehsannisar3@gmail.com)
 
 **Senior Full Stack Engineer | LLM Systems | Microservices Architecture | Production AI**
 
@@ -237,7 +237,7 @@ I'm available for:
 
 ### 📫 How to Reach Me
 
-- 💼 **Upwork:** [Hire Me on Upwork](https://www.upwork.com/freelancers/~01ff885c5dd37eae7b)
+- 💼 **Upwork:** [Hire Me on Upwork](https://www.upwork.com/freelancers/~01d664b5651f40be41)
 - 💬 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ehsan-nissar)
 - 📧 **Email:** ehsannisar3@gmail.com
 - ☎️ **Phone:** +92 304 7216339
